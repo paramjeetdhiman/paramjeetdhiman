@@ -1,1 +1,5 @@
-# paramjeetdhiman
+# Paramjeet Dhiman
+
+# Connect with me.
+
+[<img src="https://raw.githubusercontent.com/paramjeetdhiman/paramjeetdhiman/master/linkedin.svg" title="linkedin" width="50" height="50" />](https://www.linkedin.com/in/paramjeetdhiman/) &nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/paramjeetdhiman/paramjeetdhiman/master/twitter.svg" title="twitter" width="50" height="50" />](https://twitter.com/paramdhiman_)&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/paramjeetdhiman/paramjeetdhiman/master/instagram.svg" title="instagram" width="50" height="50" />](https://www.instagram.com/paramjeetdhiman_/) &nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/paramjeetdhiman/paramjeetdhiman/master/facebook.svg" title="facebook" width="50" height="50" />](https://facebook.com/paramjeetdhiman1997) &nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/paramjeetdhiman/paramjeetdhiman/master/whatsapp.svg" title="whatsapp" width="50" height="50" />](https://wa.me/917027006363) &nbsp;&nbsp;&nbsp;&nbsp;[<img  src="https://raw.githubusercontent.com/paramjeetdhiman/paramjeetdhiman/master/telegram.svg"  title="telegram"  width="50"  height="50" />](https://t.me/paramjeetdhiman)
