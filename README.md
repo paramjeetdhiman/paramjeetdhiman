@@ -51,13 +51,12 @@
 
 ## 🌐 **Let's Connect & Collab!**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paramjeetdhiman.github.io)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramjeetdhiman/)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paramdhiman_)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paramjeetdhiman_/)
-[![CodePen](https://img.shields.io/badge/✏️_CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/paramjeetdhiman)
-
-📧 **Email Me:** [![Gmail](https://img.shields.io/badge/📩_paramdhiman27@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paramdhiman27@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paramjeetdhiman.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramjeetdhiman/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paramdhiman_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paramjeetdhiman_/)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/paramjeetdhiman)
+[![Gmail](https://img.shields.io/badge/paramjeetdhiman-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paramjeetdhiman1997@gmail.com)
 
 ---
 
