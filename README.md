@@ -1,11 +1,78 @@
-# Paramjeet Dhiman
+# 🚀 Paramjeet Dhiman | Frontend Sorcerer ✨
 
-## About me
+[![GitHub followers](https://img.shields.io/github/followers/paramjeetdhiman?style=social)](https://github.com/paramjeetdhiman)
+[![Twitter Follow](https://img.shields.io/twitter/follow/paramdhiman_?style=social)](https://twitter.com/paramdhiman_)
 
-<p>I'm a Front-end Developer and UI/UX enthusiast. I'm looking for a role that provides the opportunity to grow, and where I can hone my skills. I have done numerous projects involving front-end and back-end development. I like building new stuff and work with other people – nothing really interesting is ever built alone! Passionate about cloud computing. Regular attendee of web developer meetups.
+> *"Pixel-perfect interfaces meet seamless experiences — crafting digital magic one component at a time."* 🔮
 
-</p>
+---
 
-## Connect with me.
+## 🎯 **About Me** 
 
-[<img src="https://raw.githubusercontent.com/paramjeetdhiman/paramjeetdhiman/master/linkedin.svg" target="_blank" title="linkedin" width="50" height="50" />](https://www.linkedin.com/in/paramjeetdhiman/) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/paramjeetdhiman/paramjeetdhiman/master/twitter.svg" target="_blank" title="twitter" width="50" height="50" />](https://twitter.com/paramdhiman_) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/paramjeetdhiman/paramjeetdhiman/master/bag.svg" target="_blank" title="twitter" width="50" height="50" />](https://paramjeetdhiman.github.io) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/paramjeetdhiman/paramjeetdhiman/master/instagram.svg" target="_blank" title="instagram" width="50" height="50" />](https://www.instagram.com/paramjeetdhiman_/) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/paramjeetdhiman/paramjeetdhiman/master/facebook.svg" target="_blank" title="facebook" width="50" height="50" />](https://facebook.com/paramjeetdhiman1997) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/paramjeetdhiman/paramjeetdhiman/master/whatsapp.svg" target="_blank" title="whatsapp" width="50" height="50" />](https://wa.me/917027006363) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/paramjeetdhiman/paramjeetdhiman/master/telegram.svg" target="_blank" title="telegram" width="50" height="50" />](https://t.me/paramjeetdhiman)
+💻 **Frontend Architect** | 🎨 **UI/UX Artisan** | ☁️ **Cloud Explorer**  
+🌱 Currently conjuring: **Next.js 14 & Three.js magic**  
+🔥 Passionate about: **Micro-interactions, WebGL, and Jamstack**  
+⚡ Fun fact: **I can turn coffee into code** ☕➡️💻  
+
+---
+
+## 🛠 **Tech Toolkit**
+
+### 🌈 **Frontend Alchemy**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white&style=flat)
+
+### ⚡ **Backend Wizardry**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+
+### 🎨 **Design Suite**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?logo=adobe-xd&logoColor=white&style=flat)
+
+---
+
+## 📈 **GitHub Stats**
+
+![Paramjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paramjeetdhiman&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paramjeetdhiman&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🌐 **Let's Connect & Collab!**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paramjeetdhiman.github.io)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramjeetdhiman/)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paramdhiman_)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paramjeetdhiman_/)
+[![CodePen](https://img.shields.io/badge/✏️_CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/paramjeetdhiman)
+
+📧 **Email Me:** [![Gmail](https://img.shields.io/badge/📩_paramdhiman27@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paramdhiman27@gmail.com)
+
+---
+
+## 🎨 **Current Design Obsessions**
+- Glassmorphism �  
+- Neumorphism 🕳️  
+- Kinetic Typography ✨  
+- 3D Web Experiences 🚀  
+
+---
+
+## 📜 **Developer Mantra**
+> *"Code should read like poetry and perform like lightning.  
+> Build interfaces that don't just work—they delight."*  
+
+🔮 **Let's create digital magic together!**  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paramjeetdhiman&label=Profile%20views&color=0e75b6&style=flat" alt="paramjeetdhiman" /> </p>
