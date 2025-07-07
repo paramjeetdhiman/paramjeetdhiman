@@ -68,6 +68,21 @@
 
 ---
 
+
+### ✨ Fun Facts
+
+> I love turning clean code into clean UI — one pixel-perfect component at a time.  
+> Turning complex problems into elegant UIs is my kind of fun.  
+> Every time I center a div, I level up spiritually.  
+> I spend 10% coding and 90% deciding on the perfect variable name.  
+> I refactor my code more than I refresh my coffee — and that’s saying something.  
+> I believe `console.log()` is a lifestyle, not a debugging method.  
+> My commits range from "minor fix" to "why did this even work?"  
+> I name my side projects like they’ll be Fortune 500 companies.  
+> I treat every bug as a misunderstood feature.  
+> I don’t fear errors — I fear the silence when nothing renders.  
+> I measure time in deploys, coffee refills, and git commits.
+
 ## 📜 **Developer Mantra**
 > *"Code should read like poetry and perform like lightning.  
 > Build interfaces that don't just work—they delight."*  
